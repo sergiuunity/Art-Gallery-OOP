@@ -15,15 +15,6 @@ public:
 	Gallery();
 	Gallery(string name);
 
-	//// destructor
-	//~Gallery();
-
-	//// copy constructor
-	//Gallery(const Gallery& other);
-
-	//// assignment operator
-	//Gallery& operator=(const Gallery& other);
-
 	//getters and setters
 	string getName() const;
 

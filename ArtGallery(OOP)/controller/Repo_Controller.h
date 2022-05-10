@@ -34,4 +34,6 @@ public:
 
 private:
 	Gallery managed_gallery;
+	stack<Action> undo_stack;
+	stack<Action> redo_stack;
 };
