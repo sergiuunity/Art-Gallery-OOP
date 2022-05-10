@@ -1,0 +1,9 @@
+﻿  Repo_Controller.cpp
+  main.cpp
+  Gallery.cpp
+D:\Informatica\C & C++\Object Oriented Programming Course\Art-Gallery-OOP\ArtGallery(OOP)\repository\Gallery.cpp(27,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  User_Interface.cpp
+D:\Informatica\C & C++\Object Oriented Programming Course\Art-Gallery-OOP\ArtGallery(OOP)\ui\User_Interface.cpp(146,15): warning C4101: 'x': unreferenced local variable
+D:\Informatica\C & C++\Object Oriented Programming Course\Art-Gallery-OOP\ArtGallery(OOP)\ui\User_Interface.cpp(157,15): warning C4101: 'x': unreferenced local variable
+  Generating Code...
+  ArtGallery(OOP).vcxproj -> D:\Informatica\C & C++\Object Oriented Programming Course\Art-Gallery-OOP\x64\Debug\ArtGallery(OOP).exe
